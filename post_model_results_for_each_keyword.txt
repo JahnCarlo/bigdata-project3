@@ -1,0 +1,6 @@
+Flu values :  [63, 632, 75]
+Zika values :  [4, 34, 9]
+Headache values :  [34, 224, 205]
+Measles values :  [7, 34, 5]
+Ebola values :  [6, 57, 7]
+Diarrhea values :  [2, 92, 9]
